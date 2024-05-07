@@ -1,4 +1,71 @@
 .App {
-  
+  font-family: Helvetica, sans-serif;
 }
 
+a{
+    color: var(--link) !important;
+    text-decoration: none !important;
+}
+
+.BackgroundImage{
+    position: fixed;
+    min-height: 140vh;
+    max-height: 140vh;
+    max-width: 20vw;
+    top: -20vh;
+}
+
+#nav{
+    display: block;
+    
+    margin: auto;
+
+    min-height: fit-content;
+    height: 30px;
+
+    background-color: var(--background);
+    padding: 0;
+}
+
+#nav .navlink{
+    color: var(--text) !important;
+    text-decoration: none;
+    cursor: pointer;
+
+    text-transform: uppercase;
+
+    transition: all .25s;
+}
+
+#nav a.navlink{
+    line-height: 2rem;
+}
+
+#nav .navlink:hover{
+    background-color: #fff3;
+}
+
+#nav i{
+    margin: auto;
+    padding: 0;
+    color: var(--text-soft);
+    transition: all .25s;
+}
+
+#nav i:hover{
+    color: var(--text);
+}
+
+#tumblr{
+    min-height: 22px;
+    max-height: 22px;
+    margin-top: -5px;
+    filter: brightness(.6);
+    transition: all .25s;
+
+}
+
+#tumblr:hover{
+    filter: brightness(1);
+
+}

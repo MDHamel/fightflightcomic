@@ -1,3 +1,28 @@
 :root{
-    --background: #333;
+    --background: #050505;
+    
+    --background-chapter-select-icons: #fff2;
+    --background-chapter-select-icons-hover: #fff4;
+
+    --text: #eee;
+    --text-soft: #999;
+
+    --link: #79559e;
+
+
+
+}
+
+.text{
+    color: var(--text) !important;
+}
+
+.text-soft{
+    color: var(--text-soft) !important;
+
+}
+
+.text-link{
+    color: var(--link) !important;
+    cursor: pointer;
 }
