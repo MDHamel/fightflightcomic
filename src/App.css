@@ -17,7 +17,7 @@ a{
 
 #nav{
     display: block;
-    
+
     margin: auto;
 
     min-height: fit-content;
@@ -43,29 +43,4 @@ a{
 
 #nav .navlink:hover{
     background-color: #fff3;
-}
-
-#nav i{
-    margin: auto;
-    padding: 0;
-    color: var(--text-soft);
-    transition: all .25s;
-}
-
-#nav i:hover{
-    color: var(--text);
-}
-
-#tumblr{
-    min-height: 22px;
-    max-height: 22px;
-    margin-top: -5px;
-    filter: brightness(.6);
-    transition: all .25s;
-
-}
-
-#tumblr:hover{
-    filter: brightness(1);
-
 }

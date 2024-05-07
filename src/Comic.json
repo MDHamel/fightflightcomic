@@ -178,5 +178,185 @@
         "page": 20,
         "date": "June 8, 2017",
         "desc": "Happy Thursday again! Another comic update, here for you!"
+    },
+    {
+        "id": 20,
+        "image": "/Chapters/Prologue/Fight-Flight-Prologue-21.webp",
+        "title": "Prologue – 21",
+        "chapter": "Prologue",
+        "page": 21,
+        "date": "June 15, 2017",
+        "desc": "Happy Thursday, everybody!\nHey, look at that! New characters! Important characters? Who knows? We’ll see! Also, I promise there won’t be a whole lot of “bathroom humor” in this comic, if you’re grossed out by that kind of thing (like my mom is). That big wolf monster just kinda scared a whole lot out of poor Walt."
+    },
+    {
+        "id": 21,
+        "image": "/Chapters/Prologue/Fight-Flight-Prologue-22.webp",
+        "title": "Prologue – 22",
+        "chapter": "Prologue",
+        "page": 22,
+        "date": "June 22, 2017",
+        "desc": "Happy Thursday! Here’s some yelling! AAAAHHH! By the way, I hope you guys appreciate that cabinet full of junk in panel 4! Because that took WAY too long to do.\nAlso! Just so you guys know, I will be gone the week of the 4th of July for a wedding. This is probably not going  to effect the comic schedule! But I just wanted to put that out there in case it does, or if anything else happens. Who knows? It’s always good to plan ahead, that’s what I always say."
+    },
+    {
+        "id": 22,
+        "image": "/Chapters/Prologue/Fight-Flight-Prologue-23.webp",
+        "title": "Prologue – 23",
+        "chapter": "Prologue",
+        "page": 23,
+        "date": "July 13, 2017 ",
+        "desc": "And we’re back!\nThank you for your patience, everyone! I had a great time away from home! After my cousin’s wedding, me and my family had ourselves a time in Chicago on the 4th of July. Fireworks over that kinda skyline are definitely a sight to behold. Not much else to say, really! Have a great remainder of the week, y’all!"
+    },
+    {
+        "id": 23,
+        "image": "/Chapters/Prologue/Fight-Flight-Prologue-24.webp",
+        "title": "Prologue – 24",
+        "chapter": "Prologue",
+        "page": 24,
+        "date": "July 20, 2017",
+        "desc": "Happy Thursday, Everybody!\nHere’s the latest, with the brand new guy who swears like a sailor! He’s going to be around a lot!\nAnyways, see you guys next week!"
+    },
+    {
+        "id": 24,
+        "image": "/Chapters/Prologue/Fight-Flight-Prologue-25.webp",
+        "title": "Prologue – 25",
+        "chapter": "Prologue",
+        "page": 25,
+        "date": "July 27, 2017",
+        "desc": "Thursday again, and with another Thursday comes another comic! See you guys on the first Thursday of next month!\nEDIT: Hey guys! Sorry about the lack of an update this fine August morning! For reasons, I couldn’t get the new page out this week, but I also figured I definitely needed some spare time to breathe.\nJuggling this comic with work on my own is some tough stuff, especially since I don’t get paid for doing what I do here. I just need a bit of time so I can get the next page done, but also work on a Hiveworks application — And, like I said, time to breathe. The new page will be up next week — I’d like to apologize again for the delay."
+    },
+    {
+        "id": 25,
+        "image": "/Chapters/Prologue/Fight-Flight-Prologue-26.webp",
+        "title": "Prologue – 26",
+        "chapter": "Prologue",
+        "page": 26,
+        "date": "August 10, 2017",
+        "desc": "Heya howdy! It’s page 26!\nWhy’s this Galanos fellow so angry at Walt? What’s Walt seeing that we don’t? Find out next week!"
+    },
+    {
+        "id": 26,
+        "image": "/Chapters/Prologue/Fight-Flight-Prologue-27.webp",
+        "title": "Prologue – 27",
+        "chapter": "Prologue",
+        "page": 27,
+        "date": "August 17, 2017",
+        "desc": "Happy Thursday, everybody! And to everyone who’s back in school — Welcome back! And keep on trucking! It’s tough, but it won’t last forever!\nNothing special to note this week, by the way. I’m still working on that Hiveworks application to make it the best that I can. Oh! And hey! If you like Fight/Flight, remember that I’ve got a Twitter you guys can follow so you can get a nifty little reminder whenever Fight/Flight updates, and some other cool junk in the future, probably!\nAnd finally! Please remember to spread the word about this comic! I appreciate it!"
+    },
+    {
+        "id": 27,
+        "image": "/Chapters/Prologue/Fight-Flight-Prologue-28.webp",
+        "title": "Prologue – 28",
+        "chapter": "Prologue",
+        "page": 28,
+        "date": "August 24, 2017",
+        "desc": "Happy Thursday, folks!\nI’ve decided to start putting all Fight/Flight shirts on Teepublic.com! Well, the one that I have. And future ones! So hey, at some point the link to my store is going to switch to a better site with higher quality shirts! Be on the lookout, because all shirts will be $20, BUT for the first three days that they’re put up, they’ll be only $14! Cheaper? Yes. Rad? Hell yes.\nOh by the way, fun fact, Walt is 6’4″."
+    },
+    {
+        "id": 28,
+        "image": "/Chapters/Prologue/Fight-Flight-Prologue-29.webp",
+        "title": "Prologue – 29",
+        "chapter": "Prologue",
+        "page": 29,
+        "date": "August 31, 2017 ",
+        "desc": "Oh boy now we’re really getting somewhere."
+    },
+    {
+        "id": 29,
+        "image": "/Chapters/Prologue/Fight-Flight-Prologue-30.webp",
+        "title": "Prologue – 30",
+        "chapter": "Prologue",
+        "page": 30,
+        "date": "September 14, 2017",
+        "desc": "And that’s all, folks! See you on Oct 5th!"
+    },
+    {
+        "id": 30,
+        "image": "/Chapters/Chapter-1/Fight-Flight-Ch-1-Cover.webp",
+        "title": "Chapter 1 – Infestation",
+        "chapter": "Chapter 1",
+        "page": "Cover",
+        "date": "October 5, 2017 ",
+        "desc": "And we’re back. Here’s an idea of what’s to come!"
+    },
+    {
+        "id": 31,
+        "image": "/Chapters/Chapter-1/Fight-Flight-Ch-1-1.webp",
+        "title": "Chapter 1 – 1",
+        "chapter": "Chapter 1",
+        "page": 1,
+        "date": "October 12, 2017 ",
+        "desc": "EDIT: Hey guys, I’m not gonna make it in time to post the comic this week. Real sorry about that. NEXT week, the comic will be up for sure! Life’s up to no good, it seems!\nIt’s page 1! Happy Thursday!\nWho’s this new lady? What’s with the wacky colors? Well, hold your horses! That’ll get cleared up! Just be patient! Jeez!\nWell, have a great not-quite-halloween-yet, everyone! See you again real soon!\nAsterix and Obelix belong to Hachette Livre Publishing"
+    },
+    {
+        "id": 32,
+        "image": "/Chapters/Chapter-1/Fight-Flight-Ch-1-2.webp",
+        "title": "Chapter 1 – 2",
+        "chapter": "Chapter 1",
+        "page": 2,
+        "date": "October 26, 2017",
+        "desc": "Hey everyone! It’s a new week with a new page!\nI’m trying to experiment with different coloring styles to make sure I can get these pages out faster! It’s normally the coloring that eats up all my time with these pages! And that’s no good! So I’ll be doing my best to fix that.\nI hope everyone has a happy Halloween!"
+    },
+    {
+        "id": 33,
+        "image": "/Chapters/Chapter-1/Fight-Flight-Ch-1-3.webp",
+        "title": "Chapter 1 – 3",
+        "chapter": "Chapter 1",
+        "page": 3,
+        "date": "October 26, 2017",
+        "desc": "Happy Thursday! Time for a new page!\nIt’s a new day! With a new mission! With some guy who definitely doesn’t want to murder Walt! Crumch."
+    },
+    {
+        "id": 34,
+        "image": "/Chapters/Chapter-1/Fight-Flight-Ch-1-2.webp",
+        "title": "Chapter 1 – 4",
+        "chapter": "Chapter 1",
+        "page": 4,
+        "date": "November 16, 2017",
+        "desc": "Happy Thursday!\nIt’s almost Thanksgiving! You know what that means! It means there won’t be a new (canon) comic next week! But there WILL be A comic, you feel? What that comic is, however, is a surprise. All you need to know is that it’ll be done in pencil. And not be canon.\nHave a good one, everybody!"
+    },
+    {
+        "id": 35,
+        "image": "/Chapters/Chapter-1/Fight-Flight-Ch-1-5.webp",
+        "title": "Chapter 1 – 5",
+        "chapter": "Chapter 1",
+        "page": 5,
+        "date": "December 7, 2017",
+        "desc": " "
+    },
+    {
+        "id": 36,
+        "image": "/Chapters/Chapter-1/Fight-Flight-Ch-1-6.webp",
+        "title": "Chapter 1 – 6",
+        "chapter": "Chapter 1",
+        "page": 6,
+        "date": "December 14, 2017 ",
+        "desc": " "
+    },
+    {
+        "id": 37,
+        "image": "/Chapters/Chapter-1/Fight-Flight-Ch-1-7.webp",
+        "title": "Chapter 1 – 7",
+        "chapter": "Chapter 1",
+        "page": 7,
+        "date": "January 4, 2018",
+        "desc": " "
+    },
+    {
+        "id": 38,
+        "image": "/Chapters/Chapter-1/Fight-Flight-Ch-1-8.webp",
+        "title": "Chapter 1 – 8",
+        "chapter": "Chapter 1",
+        "page": 8,
+        "date": "January 25, 2018",
+        "desc": " "
+    },
+    {
+        "id": 39,
+        "image": "/Chapters/Chapter-1/Fight-Flight-Ch-1-9.webp",
+        "title": "Chapter 1 – 9",
+        "chapter": "Chapter 1",
+        "page": 9,
+        "date": "February 8, 2018",
+        "desc": " "
     }
 ]

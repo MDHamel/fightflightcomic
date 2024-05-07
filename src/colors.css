@@ -1,16 +1,13 @@
 :root{
     --background: #050505;
     
-    --background-chapter-select-icons: #fff2;
-    --background-chapter-select-icons-hover: #fff4;
+    --background-chapter-select-icons: #fff3;
+    --background-chapter-select-icons-hover: #fff5;
 
     --text: #eee;
     --text-soft: #999;
 
-    --link: #79559e;
-
-
-
+    --link: #a06dd3;
 }
 
 .text{

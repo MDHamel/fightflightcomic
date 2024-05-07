@@ -1,6 +1,6 @@
 import './ComicPage.css'
 import {
-    useParams
+    useParams, Link
   } from 'react-router-dom';
 
 
@@ -21,12 +21,12 @@ export function ComicPage({ComicData}) {
     return (
         <div id="ComicPage" className="my-4">
             <img id="ComicImage" className="img-fluid p-0 mx-auto mb-3 d-block" src={`${process.env.PUBLIC_URL}${ComicData[id].image}`} />
-            <div id="ChapterSelect" className="d-flex my-4 justify-content-center fs-1">
-                <a href="/comic/0"><i class="bi bi-skip-backward-fill"></i></a>
-                <a href={`/comic/${idHandler(parseInt(id) - 1)}`}><i class="bi bi-caret-left-fill"></i></a>
+            <div id="ChapterSelect" className="d-flex my-4 justify-content-center fs-2">
+                <Link to="/comic/0" className='rounded-5 px-3 py-2'><i className="bi bi-skip-backward-fill"></i></Link>
+                <Link to={`/comic/${idHandler(parseInt(id) - 1)}`} className='rounded-5 px-3 py-2'><i className="bi bi-caret-left-fill"></i></Link>
                 <figure className="mx-2" />
-                <a href={`/comic/${idHandler(parseInt(id) + 1)}`}><i class="bi bi-caret-right-fill"></i></a>
-                <a href={`/comic/${ComicData.length-1}`}><i class="bi bi-skip-forward-fill"></i></a>
+                <Link to={`/comic/${idHandler(parseInt(id) + 1)}`} className='rounded-5 px-3 py-2'><i className="bi bi-caret-right-fill"></i></Link>
+                <Link to={`/comic/${ComicData.length-1}`} className='rounded-5 px-3 py-2'><i className="bi bi-skip-forward-fill"></i></Link>
             </div>
             <section className="container w-75">
                 <p id="ComicTitle" className="fs-4 fw-bold mb-0 p-0">{ComicData[id].title}</p>
