@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/fightflightcomic/static/css/main.7c6aae87.css",
-    "main.js": "/fightflightcomic/static/js/main.ede60076.js",
-    "static/media/bootstrap-icons.woff?": "/fightflightcomic/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/fightflightcomic/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "static/media/Background-Right.webp": "/fightflightcomic/static/media/Background-Right.224c5693d151b410b9e9.webp",
-    "static/media/Background-Left.webp": "/fightflightcomic/static/media/Background-Left.e689baa6841186a3203a.webp",
-    "static/media/cropped-Fight-Flight-Logo-3-Transparent-White-small-3.webp": "/fightflightcomic/static/media/cropped-Fight-Flight-Logo-3-Transparent-White-small-3.6c6fd7e1a8dbe5c46178.webp",
-    "static/media/tumblr.webp": "/fightflightcomic/static/media/tumblr.64cf3c097a8cb90ca3c8.webp",
-    "index.html": "/fightflightcomic/index.html",
-    "main.7c6aae87.css.map": "/fightflightcomic/static/css/main.7c6aae87.css.map",
-    "main.ede60076.js.map": "/fightflightcomic/static/js/main.ede60076.js.map"
+    "main.css": "/static/css/main.ee5f500d.css",
+    "main.js": "/static/js/main.b78175d3.js",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/Background-Right.webp": "/static/media/Background-Right.224c5693d151b410b9e9.webp",
+    "static/media/Background-Left.webp": "/static/media/Background-Left.e689baa6841186a3203a.webp",
+    "static/media/cropped-Fight-Flight-Logo-3-Transparent-White-small-3.webp": "/static/media/cropped-Fight-Flight-Logo-3-Transparent-White-small-3.6c6fd7e1a8dbe5c46178.webp",
+    "static/media/tumblr.webp": "/static/media/tumblr.64cf3c097a8cb90ca3c8.webp",
+    "index.html": "/index.html",
+    "main.ee5f500d.css.map": "/static/css/main.ee5f500d.css.map",
+    "main.b78175d3.js.map": "/static/js/main.b78175d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c6aae87.css",
-    "static/js/main.ede60076.js"
+    "static/css/main.ee5f500d.css",
+    "static/js/main.b78175d3.js"
   ]
 }
