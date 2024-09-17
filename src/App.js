@@ -20,12 +20,12 @@ function App() {
   return (
     <div className="App ">
       <figure id=" m-0 p-0">
-        <img src={leftBgImage} className="BackgroundImage float-start start-0" />
-        <img src={rightBgImage} className="BackgroundImage float-end end-0" />
-        <img src={logoImage} className='d-block mx-auto my-3 position-relative' />
+        <img src={leftBgImage} className="BackgroundImage float-start start-0 d-none d-md-block" alt="Left Background"/>
+        <img src={rightBgImage} className="BackgroundImage float-end end-0 d-none d-md-block" alt="Right Background"/>
+        <img src={logoImage} id="Logo" className=' d-block mx-auto my-3 position-relative' alt="Fight/Flight Logo"/>
       </figure>
 
-      <main className='container PageContent text p-0' style={{ maxWidth: "55vw" }}>
+      <main className='container-md container-fluid PageContent text p-0'>
         {/* <nav id='nav' className='position-relative'>
           <div className='my-auto d-inline-block float-left start-0 position-absolute h-100 ms-1'>
             <a href='#' className='navlink p-2 rounded-1 mx-2 my-auto fs-6'>Author</a>
@@ -34,7 +34,7 @@ function App() {
           </div>
         </nav> */}
 
-        <section className='container p-0 '>
+        <section className='container  p-0 '>
           <Router>
             <Routes>
               <Route 
@@ -49,8 +49,10 @@ function App() {
           </Router>
         </section>
 
-        <footer className='small text-center mt-5 mb-3'>
-          ©2014-2019 <a href="#">Rianne Meyers</a> | Developed and Maintained by <a href="https://matthewhamel.dev">Matt Hamel</a> | <span className='text-link' onClick={() => { window.scrollTo(0, 0) }}>Back to Top ↑</span>
+        <footer className='small text-center mt-5 mb-3 d-flex justify-content-center flex-column  flex-md-row'>
+          <small>©2014-2019 <a href="https://riannemeyers.wixsite.com/portfolio">Rianne Meyers</a></small>
+          <small>Developed and Maintained by <a href="https://matthewhamel.dev">Matt Hamel</a></small>
+          <small className='text-link' onClick={() => { window.scrollTo(0, 0) }}>Back to Top ↑</small>
         </footer>
       </main>
 

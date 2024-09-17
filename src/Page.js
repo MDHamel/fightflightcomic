@@ -20,13 +20,13 @@ export function ComicPage({ComicData}) {
     
     return (
         <div id="ComicPage" className="my-4">
-            <img id="ComicImage" className="img-fluid p-0 mx-auto mb-3 d-block" src={`${process.env.PUBLIC_URL}${ComicData[id].image}`} />
+            <img id="ComicImage" className="p-0 mx-auto mb-3 d-block" src={`${process.env.PUBLIC_URL}${ComicData[id].image}`} alt={`Fight/Flight Comic ${ComicData[id].chapter} pg ${ComicData[id].page}`}/>
             <div id="ChapterSelect" className="d-flex my-4 justify-content-center fs-2">
-                <Link to="/comic/0" className='rounded-5 px-3 py-2'><i className="bi bi-skip-backward-fill"></i></Link>
-                <Link to={`/comic/${idHandler(parseInt(id) - 1)}`} className='rounded-5 px-3 py-2'><i className="bi bi-caret-left-fill"></i></Link>
+                <Link to="/comic/0" className='rounded-5 px-3 py-2' onClick={() => { if(window.innerWidth > 1024) window.scrollTo(0, 0) }}><i className="bi bi-skip-backward-fill"></i></Link>
+                <Link to={`/comic/${idHandler(parseInt(id) - 1)}`} className='rounded-5 px-3 py-2' onClick={() => { if(window.innerWidth > 1024) window.scrollTo(0, 0) }}><i className="bi bi-caret-left-fill"></i></Link>
                 <figure className="mx-2" />
-                <Link to={`/comic/${idHandler(parseInt(id) + 1)}`} className='rounded-5 px-3 py-2'><i className="bi bi-caret-right-fill"></i></Link>
-                <Link to={`/comic/${ComicData.length-1}`} className='rounded-5 px-3 py-2'><i className="bi bi-skip-forward-fill"></i></Link>
+                <Link to={`/comic/${idHandler(parseInt(id) + 1)}`} className='rounded-5 px-3 py-2' onClick={() => { if(window.innerWidth > 1024) window.scrollTo(0, 0) }}><i className="bi bi-caret-right-fill"></i></Link>
+                <Link to={`/comic/${ComicData.length-1}`} className='rounded-5 px-3 py-2' onClick={() => { if(window.innerWidth > 1024) window.scrollTo(0, 0) }}><i className="bi bi-skip-forward-fill"></i></Link>
             </div>
             <section className="container w-75">
                 <p id="ComicTitle" className="fs-4 fw-bold mb-0 p-0">{ComicData[id].title}</p>

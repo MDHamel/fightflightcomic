@@ -13,3 +13,14 @@
     background-color: var(--background-chapter-select-icons-hover);
 
 }
+
+#ComicImage{
+    max-width: 55vw;
+}
+
+@media (max-width: 768px)  {
+    #ComicImage{
+        max-width: 90vw;
+    }
+    
+}
